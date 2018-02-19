@@ -1,0 +1,22 @@
+{
+  "name": "httpwithrequest",
+  "version": "1.0.0",
+  "description": "HTTP with Request exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdavis111/HTTPWithRequest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdavis111/HTTPWithRequest/issues"
+  },
+  "homepage": "https://github.com/gdavis111/HTTPWithRequest#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
